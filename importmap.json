@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "react": "https://cdn.jsdelivr.net/npm/react@16.13.1/umd/react.production.min.js",
+    "react-dom": "https://cdn.jsdelivr.net/npm/react-dom@16.13.1/umd/react-dom.production.min.js",
+    "@app/root-config": "/app-root-config.js",
+    "angular-app": "https://singlespa.azureedge.net/angular-microapp/main.js",
+    "@app/react-app": "https://singlespa.azureedge.net/react-microapp/app-react-app.js"
+  }
+}
